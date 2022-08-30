@@ -25,7 +25,6 @@ public class Main {
         System.out.println(book2.hashCode() == book1.hashCode());
 
 
-
     }
 
 }
