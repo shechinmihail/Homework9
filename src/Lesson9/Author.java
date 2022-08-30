@@ -24,4 +24,5 @@ public class Author {
                 ", lostName='" + lostName + '\'' +
                 '}';
     }
+
 }
