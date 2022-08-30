@@ -12,6 +12,10 @@ public class Main {
 
         System.out.println(book2);
 
+        System.out.println(author.equals(author1));
+
+        System.out.println(book2.hashCode());
+
         System.out.println(book1.getName() + " " + book1.getAuthor() + " " + book1.getYearOfPublication());
 
     }
